@@ -1,1 +1,1 @@
-THEME = "default"
+THEME = "light-blue"
